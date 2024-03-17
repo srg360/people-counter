@@ -1,4 +1,4 @@
-- Functioinality:
+Functioinality:
 - It is a simple counting web app
 - Initially counter is set to zero
 - On each click of "increment" button counter will +1.
