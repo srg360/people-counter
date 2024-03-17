@@ -1,0 +1,46 @@
+body{
+    background-image: url("image/bg-img.jpg");
+    background-size: cover;
+    text-align: center;
+    height: 100vh;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container{
+    background-color: whitesmoke;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+#count{
+    color:brown;  
+}
+
+button{
+    border: 1px solid black;
+    border-radius: 5px;
+    color:whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+#increment-btn{
+    background-color: #114ead;
+}
+
+#increment-btn:hover{
+    background-color: #118caded;
+}
+
+#save-btn{
+    background-color: darkgreen;
+}
+
+#save-btn:hover{
+    background-color: green;
+}
